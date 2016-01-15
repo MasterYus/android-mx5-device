@@ -1,4 +1,3 @@
--include vendor/meizu/mx5/BoardConfigVendor.mk
 
 TARGET_ARCH := arm
 TARGET_NO_BOOTLOADER := true
