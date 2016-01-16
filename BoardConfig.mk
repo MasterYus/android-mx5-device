@@ -94,7 +94,7 @@ BOARD_SECOND_SIZE := 0
 BOARD_SECOND_OFFSET := 00e88000
 
 # Recovery
-TARGET_RECOVERY_FSTAB := device/meizu/mx5/recovery.fstab
+TARGET_RECOVERY_FSTAB := device/meizu/mx5/configs/recovery.fstab
 RECOVERY_FSTAB_VERSION := 2
 RECOVERY_USE_VIRTUAL_KEY := true
 BOARD_HAS_NO_SELECT_BUTTON := true\
