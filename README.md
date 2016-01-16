@@ -1,8 +1,7 @@
 # android-mx5-device
 ## Began to build device tree for meizu mx5.
-## Need more propriate files.
 ## Wait for updates. Suggestions are welcome.
-
+Thanks to nofearnohappy.
 
 
 http://4pda.ru/forum/index.php?showtopic=717347
